@@ -28,7 +28,7 @@ Password: Admin@123
 ⚠️ Add your actual screenshots in the screenshots/ folder and update the links below.
 
 Login Page Home Page Bookmarked Articles
-
+![alt text](Screenshot_1748365213.png)![alt text](Screenshot_1748365215.png)
 🧱 Architecture Overview
 This app uses a simple StatefulWidget-based architecture for better readability and ease of learning for beginners:
 
