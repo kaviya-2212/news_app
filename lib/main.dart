@@ -84,7 +84,7 @@ class _MyHomePageState extends State<MyHomePage>
               ),
             ),
             Container(
-              height: h / 1.2,
+              height: h / 1.6,
               width: w,
               color: Colors.yellow,
               child: TabBarView(
